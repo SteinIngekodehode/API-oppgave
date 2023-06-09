@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+ }
+
+ h1 {
+    color: #333;
+  }
+
+  #weather-form {
+    margin-top: 25px;
+  }
+
+  #weather-data {
+    margin-top: 25px;
+  }
