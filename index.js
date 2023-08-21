@@ -5,7 +5,7 @@ async function getWeather(event) {   /* async function for å kunne pause utfør
     const cityInput = document.getElementById("city-input").value;
     const city = cityInput;
     console.log(city);
-    const apiKey = "c9a40190192d19d4e3bbbe67853eb27c";
+    const apiKey = 
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
    
 
